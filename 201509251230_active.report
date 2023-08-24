@@ -1,0 +1,45 @@
+                addressRecord: 8582209003@integration52.yagatta.com
+                addressRecord: 6195340160@integration52.yagatta.com
+                addressRecord: 8586639654@integration52.yagatta.com
+                addressRecord: 8582209460@integration52.yagatta.com
+                addressRecord: 8564255880@integration52.yagatta.com
+                addressRecord: 6195343357@integration52.yagatta.com
+                addressRecord: 8589526455@integration52.yagatta.com
+                addressRecord: 4052061585@integration52.yagatta.com
+                addressRecord: 8586636021@integration52.yagatta.com
+                addressRecord: 8586636663@integration52.yagatta.com
+                addressRecord: 8586633028@integration52.yagatta.com
+                addressRecord: 8586636177@integration52.yagatta.com
+                addressRecord: 2402818963@integration52.yagatta.com
+            groupAddress: dougclosed828@group.integration52.yagatta.com
+            groupAddress: dougchat0811@chat.integration52.yagatta.com
+            groupAddress: dougclosed2@chat.integration52.yagatta.com
+                addressRecord: 8582204754@integration52.yagatta.com
+                addressRecord: 8586631304@integration52.yagatta.com
+                addressRecord: 8587681364@integration52.yagatta.com
+                addressRecord: 8582304668@integration52.yagatta.com
+                addressRecord: 9985444935@integration52.yagatta.com
+                addressRecord: 9985444930@integration52.yagatta.com
+                addressRecord: 9985444931@integration52.yagatta.com
+								
++++++++++++++++++++++++ IMP STATS Last 48 Hrs ++++++++++++++++++++++
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.alert.1 = Counter32: 0
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.alert.1 = Counter32: 0
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.direct.1 = Counter32: 88
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.direct.1 = Counter32: 26
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.adhoc.1 = Counter32: 5
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.adhoc.1 = Counter32: 1
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.closedGroup.1 = Counter32: 6
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.closedGroup.1 = Counter32: 0
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.closedChatroom.1 = Counter32: 7
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.closedChatroom.1 = Counter32: 0
+QCHAT-COMPONENT-MIB::rdSuccessfulCallsByCallType.availability.1 = Counter32: 193
+QCHAT-COMPONENT-MIB::rdUnsuccessfulCallsByCallType.availability.1 = Counter32: 22
+                                                          
+----------------------------------More-----------------------------
+QCHAT-COMPONENT-MIB::icpTotalInitialProvisioningSuccess.1 = Counter32: 5
+QCHAT-COMPONENT-MIB::icpTotalInitialProvisioningFailure.1 = Counter32: 5
+QCHAT-COMPONENT-MIB::icpTotalSubsequentProvisioningSuccess.1 = Counter32: 0
+QCHAT-COMPONENT-MIB::wfeClientDiscoverQChatUsersSuccess.1 = Counter32: 451
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                          
